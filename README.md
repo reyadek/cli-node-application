@@ -3,7 +3,7 @@
 ### Command Line Application Node JS
 
 git clone https://github.com/reyadek/cli-node-application.git
-- cd cli-node-Application
+- `cd cli-node-Application`
 - npm install
 
 
