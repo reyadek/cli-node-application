@@ -9,10 +9,10 @@ git clone https://github.com/reyadek/cli-node-application.git
 ##### check all Command
 - node .
 
------------
-###### built node v16.6.2
-###### built npm 7.20.3
------------
+<br />
+####### built on node v16.6.2
+####### built on npm 7.20.3
+<br />
 ##### core library
 
 - https://nodejs.org/dist/latest-v14.x/docs/api/fs.html
@@ -23,7 +23,7 @@ git clone https://github.com/reyadek/cli-node-application.git
 - https://www.npmjs.com/package/validator
 - https://www.npmjs.com/package/chalk
 
------------
+<br />
 #####Add some contact
 - node . add --name="Jhon Doe" --email="john@gmail.com" --phone="08123123123"
 - node . add --name="Sarah Luna" --email="sarah@gmail.com" --phone="08124124124"
@@ -43,7 +43,8 @@ git clone https://github.com/reyadek/cli-node-application.git
 ##### Delete contact by email
 - node . delete --email="sarah@gmail.com"
 
------
+<br />
+<br />
 #### dont forget give a star
 
 Cheers
