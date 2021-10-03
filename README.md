@@ -27,7 +27,7 @@ git clone https://github.com/reyadek/cli-node-application.git
 
 <br />
 
-#### check all Command
+#### Check all Command
 - node .
 
 #### Add some contact
