@@ -6,34 +6,34 @@ git clone https://github.com/reyadek/cli-node-application.git
 - cd cli-node-Application
 - npm install
 
-#####check all Command
+##### check all Command
 - node .
 
 -----------
-######built node v16.6.2
-######built npm 7.20.3
+###### built node v16.6.2
+###### built npm 7.20.3
 -----------
 #####Add some contact
 - node . add --name="Jhon Doe" --email="john@gmail.com" --phone="08123123123"
 - node . add --name="Sarah Luna" --email="sarah@gmail.com" --phone="08124124124"
 
 
-#####Show all contact
+##### Show all contact
 - node . list
 
 
-#####Search contact by name "found"
+##### Search contact by name "found"
 - node . search --name="Jhon Doe"
 
-#####Search contact by name "not found"
+##### Search contact by name "not found"
 - node . search --name="Mark Peter"
 
 
-#####Delete contact by email
+##### Delete contact by email
 - node . delete --email="sarah@gmail.com"
 
 -----
-####dont forget give a star
+#### dont forget give a star
 
 Cheers
-#####Ade Putra
+##### Ade Putra
