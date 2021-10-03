@@ -1,0 +1,24 @@
+{
+  "name": "cli-node-application",
+  "version": "1.0.0",
+  "description": "Application Command Line Interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "node",
+    "js",
+    "javascript",
+    "es6",
+    "application"
+  ],
+  "author": "Ade Putra",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "validator": "^13.6.0",
+    "yargs": "^17.2.1"
+  }
+}
