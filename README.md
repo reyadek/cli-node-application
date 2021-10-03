@@ -32,7 +32,7 @@ git clone https://github.com/reyadek/cli-node-application.git
 
 ##### Add some contact
 - node . add --name="Jhon Doe" --email="john@gmail.com" --phone="08123123123"
-- node . add --name="Sarah Luna" --email="sarah@gmail.com" --phone="08124124124"
+- node . add --name="lidya Luna" --email="lidya@gmail.com" --phone="08124124124"
 
 
 ##### Show all contact
@@ -47,7 +47,7 @@ git clone https://github.com/reyadek/cli-node-application.git
 
 
 ##### Delete contact by email
-- node . delete --email="sarah@gmail.com"
+- node . delete --email="lidya@gmail.com"
 
 <br />
 <br />
