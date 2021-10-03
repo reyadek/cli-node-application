@@ -13,6 +13,17 @@ git clone https://github.com/reyadek/cli-node-application.git
 ###### built node v16.6.2
 ###### built npm 7.20.3
 -----------
+##### core library
+
+- https://nodejs.org/dist/latest-v14.x/docs/api/fs.html
+
+##### npm library
+
+- https://www.npmjs.com/package/yargs
+- https://www.npmjs.com/package/validator
+- https://www.npmjs.com/package/chalk
+
+-----------
 #####Add some contact
 - node . add --name="Jhon Doe" --email="john@gmail.com" --phone="08123123123"
 - node . add --name="Sarah Luna" --email="sarah@gmail.com" --phone="08124124124"
