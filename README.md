@@ -11,10 +11,10 @@ git clone https://github.com/reyadek/cli-node-application.git
 
 <br />
 
-####### built on node v16.6.2
-####### built on npm 7.20.3
+###### built on node v16.6.2
+###### built on npm 7.20.3
 
-<br />
+-----------
 
 ##### core library
 
