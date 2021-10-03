@@ -1,7 +1,6 @@
 # cli-node-application
-This is application for command line application
 
-Command Line Application Node JS
+# Command Line Application Node JS
 
 git clone
 -cd cli-node-Application
