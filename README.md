@@ -6,8 +6,7 @@ git clone https://github.com/reyadek/cli-node-application.git
 - cd cli-node-Application
 - npm install
 
-##### check all Command
-- node .
+
 
 <br />
 
@@ -27,6 +26,9 @@ git clone https://github.com/reyadek/cli-node-application.git
 - https://www.npmjs.com/package/chalk
 
 <br />
+
+##### check all Command
+- node .
 
 ##### Add some contact
 - node . add --name="Jhon Doe" --email="john@gmail.com" --phone="08123123123"
