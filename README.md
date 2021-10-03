@@ -15,11 +15,11 @@ git clone https://github.com/reyadek/cli-node-application.git
 
 -----------
 
-##### core library
+#### core library
 
 - https://nodejs.org/dist/latest-v14.x/docs/api/fs.html
 
-##### npm library
+#### npm library
 
 - https://www.npmjs.com/package/yargs
 - https://www.npmjs.com/package/validator
@@ -27,26 +27,26 @@ git clone https://github.com/reyadek/cli-node-application.git
 
 <br />
 
-##### check all Command
+#### check all Command
 - node .
 
-##### Add some contact
+#### Add some contact
 - node . add --name="Jhon Doe" --email="john@gmail.com" --phone="08123123123"
 - node . add --name="lidya Luna" --email="lidya@gmail.com" --phone="08124124124"
 
 
-##### Show all contact
+#### Show all contact
 - node . list
 
 
-##### Search contact by name "found"
+#### Search contact by name "found"
 - node . search --name="Jhon Doe"
 
-##### Search contact by name "not found"
+#### Search contact by name "not found"
 - node . search --name="Mark Peter"
 
 
-##### Delete contact by email
+#### Delete contact by email
 - node . delete --email="lidya@gmail.com"
 
 <br />
