@@ -27,6 +27,7 @@ git clone https://github.com/reyadek/cli-node-application.git
 - https://www.npmjs.com/package/chalk
 
 <br />
+
 ##### Add some contact
 - node . add --name="Jhon Doe" --email="john@gmail.com" --phone="08123123123"
 - node . add --name="Sarah Luna" --email="sarah@gmail.com" --phone="08124124124"
@@ -48,6 +49,7 @@ git clone https://github.com/reyadek/cli-node-application.git
 
 <br />
 <br />
+
 #### dont forget give a star
 
 Cheers
