@@ -4,7 +4,7 @@
 
 git clone https://github.com/reyadek/cli-node-application.git
 - `cd cli-node-Application`
-- npm install
+- `npm install`
 
 
 
@@ -28,26 +28,26 @@ git clone https://github.com/reyadek/cli-node-application.git
 <br />
 
 #### Check all Command
-- node .
+- `node .`
 
 #### Add some contact
-- node . add --name="Jhon Doe" --email="john@gmail.com" --phone="08123123123"
-- node . add --name="lidya Luna" --email="lidya@gmail.com" --phone="08124124124"
+- `node . add --name="Jhon Doe" --email="john@gmail.com" --phone="08123123123"`
+- `node . add --name="lidya Luna" --email="lidya@gmail.com" --phone="08124124124"`
 
 
 #### Show all contact
-- node . list
+- `node . list`
 
 
 #### Search contact by name "found"
-- node . search --name="Jhon Doe"
+- `node . search --name="Jhon Doe"`
 
 #### Search contact by name "not found"
-- node . search --name="Mark Peter"
+- `node . search --name="Mark Peter"`
 
 
 #### Delete contact by email
-- node . delete --email="lidya@gmail.com"
+- `node . delete --email="lidya@gmail.com"`
 
 <br />
 <br />
