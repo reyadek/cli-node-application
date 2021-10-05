@@ -50,6 +50,9 @@ git clone https://github.com/reyadek/cli-node-application.git
 - `node . delete --email="lidya@gmail.com"`
 
 <br />
+
+data will saved in data/contact.json
+<br />
 <br />
 
 #### dont forget give a star
